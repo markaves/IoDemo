@@ -1,0 +1,21 @@
+import java.io.*;
+
+/** @author calenmartin */
+public class DemoFileReader {
+
+	public static void main(String[] args) {
+		try {
+			Reader reader = new FileReader("testfiles/DemoFileInputStream.txt");
+			
+			for (int i = reader.read(); i != -1; i = reader.read()) {
+				System.out.print((char) i);
+			}
+			
+			reader.close();
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		System.exit(0);	
+	}
+}

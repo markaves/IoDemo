@@ -1,0 +1,25 @@
+import java.io.*;
+
+/** @author calenmartin */
+public class DemoFileWriter {
+
+	public static void main(String[] args) {
+		System.out.println("start DemoFileWriter");
+		try {
+			Writer writer = new FileWriter("resultfiles/DemoFileWriter.txt");
+			
+			writer.write("Row, row, row your boat.\n");
+			writer.write("Gently down the stream.\n");
+			writer.write("Merrily, merrily, merrily, merrily,\n");
+			writer.write("Life is but a dream.");
+			
+			writer.flush();
+			writer.close();
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println("end DemoFileWriter");
+		System.exit(0);	
+	}
+}

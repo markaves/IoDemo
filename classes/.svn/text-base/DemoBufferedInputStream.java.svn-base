@@ -1,0 +1,53 @@
+import java.io.*;
+
+/** @author calenmartin */
+public class DemoBufferedInputStream {
+	
+	private static final File FILE = new File("testfiles/SixMbFile.txt");
+	
+	private static void justFis() throws IOException {
+		InputStream is = new FileInputStream(FILE);
+		
+		long start = System.currentTimeMillis();
+		for (int i = is.read(); i != -1; i = is.read()) {
+		}		
+		long end = System.currentTimeMillis();
+		System.out.println("time, just FIS: " + (end-start) + "ms");
+		is.close();
+	}
+	
+	private static void bufferedFis() throws IOException {
+		FileInputStream fis = new FileInputStream(FILE);
+		InputStream is = new BufferedInputStream(fis);				//default 2kB buffer
+		
+		long start = System.currentTimeMillis();
+		for (int i = is.read(); i != -1; i = is.read()) {
+		}		
+		long end = System.currentTimeMillis();
+		System.out.println("time, buffered: " + (end-start) + "ms");
+		is.close();
+	}
+	
+	private static void biggerBuffer() throws IOException {
+		FileInputStream fis = new FileInputStream(FILE);
+		InputStream is = new BufferedInputStream(fis, 16 * 1024);	//16kB buffer
+		
+		long start = System.currentTimeMillis();
+		for (int i = is.read(); i != -1; i = is.read()) {
+		}		
+		long end = System.currentTimeMillis();
+		System.out.println("time, bigger buffer: " + (end-start) + "ms");
+		is.close();
+	}
+
+	public static void main(String[] args) {
+		try {
+			justFis();
+			bufferedFis();
+			biggerBuffer();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		System.exit(0);
+	}
+}

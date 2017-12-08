@@ -1,0 +1,22 @@
+import java.io.*;
+import java.net.*;
+
+/** @author calenmartin */
+public class ReadFromUrl {
+
+	public static void main(String[] args) {
+		try {
+			URL urlYahoo = new URL("http://www.yahoo.jp/");
+			BufferedReader in = new BufferedReader(
+					new InputStreamReader(urlYahoo.openStream()));
+		
+			for (String inputLine = in.readLine(); inputLine != null; inputLine = in.readLine()) {
+	            System.out.println(inputLine);
+	        }
+			
+			in.close();
+		} catch  (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

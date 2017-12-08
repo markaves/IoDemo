@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io
+END
+PushbackReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PushbackReader.html
+END
+PipedReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PipedReader.html
+END
+FileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileFilter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/package-tree.html
+END
+PrintWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PrintWriter.html
+END
+StringBufferInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/StringBufferInputStream.html
+END
+PipedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PipedInputStream.html
+END
+ByteArrayInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ByteArrayInputStream.html
+END
+PipedWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PipedWriter.html
+END
+OptionalDataException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/OptionalDataException.html
+END
+CharArrayReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/CharArrayReader.html
+END
+ObjectInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectInputStream.html
+END
+DataOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/DataOutputStream.html
+END
+CharArrayWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/CharArrayWriter.html
+END
+OutputStreamWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/OutputStreamWriter.html
+END
+NotActiveException.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/NotActiveException.html
+END
+OutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/OutputStream.html
+END
+InterruptedIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/InterruptedIOException.html
+END
+FileOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileOutputStream.html
+END
+BufferedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/BufferedInputStream.html
+END
+UnsupportedEncodingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/UnsupportedEncodingException.html
+END
+SerializablePermission.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/SerializablePermission.html
+END
+IOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/IOException.html
+END
+ObjectInput.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectInput.html
+END
+FilenameFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilenameFilter.html
+END
+ObjectStreamField.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectStreamField.html
+END
+ObjectOutput.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectOutput.html
+END
+FilePermission.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilePermission.html
+END
+DataOutput.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/DataOutput.html
+END
+InvalidClassException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/InvalidClassException.html
+END
+InvalidObjectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/InvalidObjectException.html
+END
+LineNumberInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/LineNumberInputStream.html
+END
+PipedOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PipedOutputStream.html
+END
+ObjectStreamException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectStreamException.html
+END
+ObjectInputValidation.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectInputValidation.html
+END
+SequenceInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/SequenceInputStream.html
+END
+NotSerializableException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/NotSerializableException.html
+END
+FilterReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilterReader.html
+END
+InputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/InputStream.html
+END
+FileInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileInputStream.html
+END
+FileNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileNotFoundException.html
+END
+ObjectOutputStream.PutField.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectOutputStream.PutField.html
+END
+File.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/File.html
+END
+FilterInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilterInputStream.html
+END
+FilterWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilterWriter.html
+END
+LineNumberReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/LineNumberReader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/package-frame.html
+END
+ObjectInputStream.GetField.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectInputStream.GetField.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/package-summary.html
+END
+EOFException.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/EOFException.html
+END
+DataInput.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/DataInput.html
+END
+ByteArrayOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ByteArrayOutputStream.html
+END
+RandomAccessFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/RandomAccessFile.html
+END
+CharConversionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/CharConversionException.html
+END
+ObjectOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectOutputStream.html
+END
+ObjectStreamConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectStreamConstants.html
+END
+BufferedOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/BufferedOutputStream.html
+END
+FilterOutputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FilterOutputStream.html
+END
+StreamTokenizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/StreamTokenizer.html
+END
+StringReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/StringReader.html
+END
+PushbackInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PushbackInputStream.html
+END
+InputStreamReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/InputStreamReader.html
+END
+SyncFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/SyncFailedException.html
+END
+StreamCorruptedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/StreamCorruptedException.html
+END
+Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/Reader.html
+END
+FileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileReader.html
+END
+StringWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/StringWriter.html
+END
+DataInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/DataInputStream.html
+END
+BufferedReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/BufferedReader.html
+END
+Serializable.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/Serializable.html
+END
+ObjectStreamClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/ObjectStreamClass.html
+END
+PrintStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/PrintStream.html
+END
+Externalizable.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/Externalizable.html
+END
+WriteAbortedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/WriteAbortedException.html
+END
+Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/Writer.html
+END
+FileWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileWriter.html
+END
+FileDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/FileDescriptor.html
+END
+BufferedWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/BufferedWriter.html
+END
+UTFDataFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/docs/io/UTFDataFormatException.html
+END

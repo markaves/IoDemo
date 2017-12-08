@@ -1,0 +1,24 @@
+import java.io.*;
+
+/** @author calenmartin */
+public class DemoLineNumberReader {
+
+	public static void main(String[] args) {
+		try {
+			FileReader fr = new FileReader("testfiles/DemoFileInputStream.txt");
+			LineNumberReader lnr = new LineNumberReader(fr);
+			lnr.setLineNumber(2);
+			
+			for (String line = lnr.readLine(); line != null; line = lnr.readLine()) {
+				System.out.print("\nline #" + lnr.getLineNumber() + ": ");
+				System.out.print(line);
+			}
+			
+			lnr.close();
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		System.exit(0);
+	}
+}

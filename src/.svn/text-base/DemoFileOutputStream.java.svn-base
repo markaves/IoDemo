@@ -1,0 +1,35 @@
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+
+/** @author calenmartin */
+public class DemoFileOutputStream {
+
+	public static void main(String[] args) {		
+		System.out.println("start DemoFileOutputStream");
+		OutputStream os = null;
+		try {
+			
+			os = new FileOutputStream("resultfiles/DemoFileOutputStream.txt");
+			
+			String str1 = "Row, row, row your boat\n";
+			String str2 = "Gently down the stream";
+			
+			os.write(str1.getBytes());
+			os.write(str2.getBytes());
+			
+			os.flush();
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				os.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println("end DemoFileOutputStream");
+		System.exit(0);
+	}
+}

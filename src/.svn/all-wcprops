@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/training/!svn/ver/944/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src
+END
+DemoFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/941/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoFileInputStream.java
+END
+WriteToUrlConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/WriteToUrlConnection.java
+END
+DemoFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoFileOutputStream.java
+END
+DemoFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoFileWriter.java
+END
+ReadFromUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/training/!svn/ver/943/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/ReadFromUrl.java
+END
+ReadFromUrlConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/training/!svn/ver/944/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/ReadFromUrlConnection.java
+END
+DemoBufferedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoBufferedInputStream.java
+END
+DemoListFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoListFiles.java
+END
+FileCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/FileCreate.java
+END
+DemoBufferedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoBufferedOutputStream.java
+END
+DemoBufferedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoBufferedWriter.java
+END
+DemoBufferdReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoBufferdReader.java
+END
+DemoFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/training/!svn/ver/90/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoFileReader.java
+END
+DemoLineNumberReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/training/!svn/ver/942/trunk/FundamentalsAndOOP/day05/samples/IoDemo/src/DemoLineNumberReader.java
+END

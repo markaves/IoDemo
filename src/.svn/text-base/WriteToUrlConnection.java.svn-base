@@ -1,0 +1,32 @@
+import java.io.*;
+import java.net.*;
+
+
+/** @author calenmartin */
+public class WriteToUrlConnection {
+
+    public static void main(String[] args) throws Exception {
+
+		String stringToReverse = "The quick brown fox jumped over the lazy dog.";
+	
+		URL url = new URL("http://java.sun.com/cgi-bin/backwards");
+		URLConnection connection = url.openConnection();
+		connection.setDoOutput(true);
+	
+		PrintWriter out = new PrintWriter(
+	    		connection.getOutputStream());
+		out.println("string=" + stringToReverse);
+		out.close();
+	
+		BufferedReader in = new BufferedReader(
+					new InputStreamReader(
+					connection.getInputStream()));
+					
+		for (String inputLine = in.readLine(); inputLine != null; inputLine = in.readLine()) {
+            System.out.println(inputLine);
+        }
+	
+		in.close();
+    }
+
+}
